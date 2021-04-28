@@ -1,0 +1,26 @@
+###########################################
+# Syntax Coloring Map For LCD101
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+LCD	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+write	KEYWORD2
+reset	KEYWORD2
+init	KEYWORD2
+sendCommand	KEYWORD2
+sendData	KEYWORD2
+setCursor	KEYWORD2
+drawChar	KEYWORD2
+clearLine  KEYWORD2
+clear	KEYWORD2
+drawRaw  KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################

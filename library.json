@@ -1,0 +1,10 @@
+{
+  "name": "LCD101",
+  "keywords": "LCD, liquidcrystal, PCF8812",
+  "description": "A library for 101x64 lcd PCF8812",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+  ]
+}
